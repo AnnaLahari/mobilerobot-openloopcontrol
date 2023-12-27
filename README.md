@@ -9,9 +9,9 @@ To develop a python control code to move the mobilerobot along the predefined pa
 
 ## Procedure:
 
- Step1:Use from robomaster import robot
+ Step1: Use from robomaster import robot
 
- Step2:Choose the x,y,z - axis movement distance(meters).
+ Step2: Choose the x,y,z - axis movement distance(meters).
 
  Step3: Give ep_chassis.move to move straight.
 
@@ -90,7 +90,7 @@ if _name_ == '_main_':
 
 ## MobileRobot Movement Image:
 
-![WhatsApp Image 2023-12-27 at 21 09 36_667f99a1](https://github.com/AnnaLahari/mobilerobot-openloopcontrol/assets/149365425/6d0a1345-e67b-42a9-8d5f-24496bf3c018)
+![WhatsApp Image 2023-12-27 at 22 08 34_5ee1ca9b](https://github.com/AnnaLahari/mobilerobot-openloopcontrol/assets/149365425/2974dce7-52e6-4ace-8177-b2d835e15867)
 
 ## MobileRobot Movement Video:
 
